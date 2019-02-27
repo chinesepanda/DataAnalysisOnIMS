@@ -1,1 +1,7 @@
-# DataAnalysisOnIMS
+# DataAnalysisOnIMS IMS通话数据分析
+## 作者：@熊猫广志
+## E-mail：18354223259@126.com
+## 1.项目简介
+## 2.数据源描述
+## 3.项目框架
+## 项目日志
